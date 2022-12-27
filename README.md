@@ -6,7 +6,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<a href="https://app.daily.dev/rahul8864"><img src="https://api.daily.dev/devcards/e12fcbcccae74fa5a375c43b7247446c.png?r=jqq" width="400" alt="Rahul Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/rahul8864" float="left"><img src="https://api.daily.dev/devcards/e12fcbcccae74fa5a375c43b7247446c.png?r=jqq" width="400" alt="Rahul Kumar's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulkumarrj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCtVH2uoys5vZAEc6p0wud_A) 
