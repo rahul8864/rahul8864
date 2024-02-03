@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  <div align="left">
+  <img  src="https://github.com/rahul8864/rahul8864/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
