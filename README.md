@@ -1,16 +1,9 @@
-- 👋 Hi, I’m @rahul8864
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-  <div align="left">
+<div>
+  <strong>👋 Hi, I’m <a href="https://www.linkedin.com/in/rahulkumarrj/">Rahul Kumar</a></strong>
   <img  src="https://github.com/rahul8864/rahul8864/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-<a href="https://app.daily.dev/rahul8864"><img src="https://api.daily.dev/devcards/v2/dO2lgq2pY8FwcbJr2ZAo0.png?r=rfg" width="356" alt="Rahul Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/rahul8864"><img src="https://api.daily.dev/devcards/v2/dO2lgq2pY8FwcbJr2ZAo0.png?type=wide&r=n60" width="652" alt="Rahul Kumar's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulkumarrj/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCtVH2uoys5vZAEc6p0wud_A) 
